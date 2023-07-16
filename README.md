@@ -13,3 +13,4 @@ To use:
 - Copy and paste the URL
 - In OBS, create a new Browser source. Paste the URL.
 - Enjoy!
+- Editado para utilizar os botões L1 e R1 como L e R
